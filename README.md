@@ -1,0 +1,1 @@
+Mini site informativo criado com HTML, abordando temas como o surgimento da internet, funcionamento do HTML, uso de tags, HTML semântico e a relação cliente-servidor. Desenvolvido como parte do projeto do Bootcamp Santander.
